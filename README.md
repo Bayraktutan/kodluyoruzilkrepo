@@ -27,5 +27,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için önce neyi değişti
 
 ## Licence
 ***
-[MIT](https://choosealicense.com/licenses/mit/)# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+[MIT](https://choosealicense.com/licenses/mit/)
